@@ -55,15 +55,7 @@
 3. Double-click to run
 
 ### Linux
-1. Download `FmSV.py` 
-2. Make it executable:
-```bash
-chmod +x FmSV.py
-```
-3. Run with Python:
-```bash
-python3 FmSV.py
-```
+Soon...
 
 ---
 
