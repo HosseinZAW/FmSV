@@ -106,7 +106,7 @@ After setup, your server directory will contain:
 ├── server.properties       # Server configuration
 ├── eula.txt                # EULA agreement (auto-accepted)
 ├── fmsv.fmsv              # Server metadata
-└── 📁 world/              # World files (after first run)
+
 ```
 
 ### Server Properties
