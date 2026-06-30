@@ -28,7 +28,7 @@
 - 🎮 **Interactive version selection** - Browse and choose any Minecraft version
 - ⚙️ **Automatic configuration** - Generates `server.properties` and `eula.txt`
 - 📝 **Server info tracking** - Creates `.fmsv` metadata file
-- 🖥️ **Cross-platform** - Works on Windows and Linux
+- 🖥️ **Cross-platform** - Works on Windows and {Linux soon...}
 
 ---
 
