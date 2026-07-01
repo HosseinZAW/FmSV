@@ -1,0 +1,5 @@
+1. download the FmSV.exe from https://github.com/HosseinZAW/FmSV
+2. put FmSV.exe in the directory you want the server
+3. Run FmSV.exe and answer qustion
+4. after making the server you can run it by opening start.bat
+- to change server setting open server.propertise
