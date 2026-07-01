@@ -21,7 +21,6 @@
 - [How to Use](#-how-to-use)
 - [Configuration](#-configuration)
 - [System Requirements](#-system-requirements)
-- [Troubleshooting](#-troubleshooting)
 - [License](#-license)
 
 ---
